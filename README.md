@@ -4,9 +4,9 @@ Juego de consola en Python donde debes **adivinar una palabra letra por letra** 
 Cuenta con gráficos ASCII, puntaje, ranking Top 5 y pistas limitadas según la dificultad.
 
 ------------------------------------------------
-```bash
-## 🚀 Cómo jugar
 
+## 🚀 Cómo jugar
+```bash
 1. Clona el repositorio:
 
 git clone https://github.com/tu-usuario/juego-adivinanza.git
@@ -43,14 +43,14 @@ Difícil (D)| 4        | 3
 - Si un jugador repite, se **actualiza su puntuación solo si es mayor**.
 
 Ejemplo de ranking:
-
+```bash
 🏆 Ranking Top 5:
 1. Frank  - 120 pts
 2. Ana    - 95 pts
 3. Luis   - 88 pts
 4. Juan   - 75 pts
 5. Carla  - 60 pts
-
+```
 ------------------------------------------------
 
 ## 🖥 Características
@@ -76,9 +76,9 @@ juego-adivinanza/
 ------------------------------------------------
 
 ## 🤝 Contribuciones
-```bash
-Si quieres mejorar el juego, agregar palabras o nuevas funcionalidades, ¡las contribuciones son bienvenidas!
 
+Si quieres mejorar el juego, agregar palabras o nuevas funcionalidades, ¡las contribuciones son bienvenidas!
+```bash
 1. Haz un fork del repositorio.
 2. Crea tu rama:
 
