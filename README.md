@@ -64,13 +64,13 @@ Ejemplo de ranking:
 
 ------------------------------------------------
 
-## 📂 Estructura del proyecto
-
+```bash
+📂 Estructura del proyecto
 juego-adivinanza/
 ├─ juego.py         # Código principal
 ├─ palabras.txt     # Lista de palabras para el juego
 ├─ scores.json      # Archivo de ranking
-├─ LICENSE          # Licencia MIT
+├─ LICENSE
 └─ README.md
 
 ------------------------------------------------
