@@ -4,7 +4,7 @@ Juego de consola en Python donde debes **adivinar una palabra letra por letra** 
 Cuenta con gráficos ASCII, puntaje, ranking Top 5 y pistas limitadas según la dificultad.
 
 ------------------------------------------------
-
+```bash
 ## 🚀 Cómo jugar
 
 1. Clona el repositorio:
@@ -17,7 +17,7 @@ cd juego-adivinanza
 3. Ejecuta el juego:
 
 python juego.py
-
+```
 ------------------------------------------------
 
 ## 🎯 Mecánica del juego
@@ -72,11 +72,11 @@ juego-adivinanza/
 ├─ scores.json      # Archivo de ranking
 ├─ LICENSE
 └─ README.md
-
+```
 ------------------------------------------------
 
 ## 🤝 Contribuciones
-
+```bash
 Si quieres mejorar el juego, agregar palabras o nuevas funcionalidades, ¡las contribuciones son bienvenidas!
 
 1. Haz un fork del repositorio.
@@ -89,7 +89,7 @@ git checkout -b feature/nueva-funcion
 git commit -m 'Agrega nueva función'
 
 4. Envía un pull request.
-
+```
 ------------------------------------------------
 
 ## 📜 Licencia
